@@ -5,7 +5,7 @@
 # This script will compare your Deep Rock Galactic save files between Steam and Xbox PC versions, and will overwrite the older one with the newer.
 # This allows you to keep your progress when switching between different versions of the game.
 # Management accepts no responsibility for use of the script. Rock and stone.
-# Source available at https://github.com/rlowellfl/funstuff
+# Source available at https://github.com/rlowellfl/funstuff/blob/main/deeprockcopy.ps1
 
 ########
 # Inputs
